@@ -3,7 +3,7 @@ My portfolio layout using the Bootstrap CSS Framework.
 
 ## Description
 
-This repository was created for building my portfolio layout using the Bootstrap CSS Framework from scratch. The site includes:
+This repository was created for building my portfolio layout using the Bootstrap CSS Framework from scratch. I used to bootstrap structure and then customerized the layout. The site includes:
 
 * A navigation bar
 * A navigation menu at the top
