@@ -37,15 +37,19 @@ padding-right: 2%;
 }
 /* work  */
 .btn-primary {
-  color: #fff;
+  /* color: #fff; */
   background-color: #f2aec7;
   border-color: #f2aec7;
 }
 
-.card-img-top img{
+.btn-primary:hover {
+  background-color: #bf62d9;
+  border-color: #bf62d9;
+}
+/* .card-img-top img{
   width:600px;
   height: 400px;
-}
+} */
 
 /* Skills and contact */
 .list-and-contact {
