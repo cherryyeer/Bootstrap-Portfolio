@@ -37,11 +37,12 @@ padding-right: 2%;
 }
 /* work  */
 .btn-primary {
-  /* color: #fff; */
+  color: #fff;
   background-color: #f2aec7;
   border-color: #f2aec7;
 }
 
+/* changed hover color  */
 .btn-primary:hover {
   background-color: #bf62d9;
   border-color: #bf62d9;
