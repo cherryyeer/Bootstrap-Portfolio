@@ -1,9 +1,20 @@
 .customNav {
-  position: fixed;
+  position: right;
   width: 100%;
   background-color:#f2aec7;
   background-size: cover;
   z-index: 10;
+}
+
+#name-and-avatar {
+  display: flex;
+  flex-direction: row;
+}
+
+#avatar {
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
 }
 
 /* jumbotron style */
