@@ -1,3 +1,7 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .customNav {
   position: right;
   width: 100%;
@@ -27,6 +31,10 @@ min-height: calc(100vh - 25px);
 display: flex;
 flex-direction: column;
 justify-content: space-between;
+}
+
+.text-responsive {
+  font-size: calc(100% + 4vw + 4vh) !important;
 }
 
 .display-4 {
